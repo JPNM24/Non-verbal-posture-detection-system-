@@ -156,7 +156,7 @@ This module is designed to work alongside a **verbal speech analysis module** fo
 
 ## 📄 License
 
-MIT License
+**Proprietary** — All Rights Reserved. See [LICENSE](LICENSE) for details.
 
 ---
 
